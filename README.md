@@ -1,2 +1,2 @@
 # Prototipo
-Este es un prototipo creado con Justimind para pantallas tamaño desktop :)
+Este es un prototipo creado con Justinmind para pantallas tamaño desktop :)
